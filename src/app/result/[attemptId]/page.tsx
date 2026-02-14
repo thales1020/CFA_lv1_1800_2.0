@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { supabase } from '@/lib/supabase/client';
+import FormattedText from '@/components/FormattedText';
 import type { OptionType } from '@/types';
 
 interface Question {
@@ -14,7 +15,9 @@ interface Question {
   option_c: string;
   correct_option: OptionType;
   order_num: number;
-  explanation?: string;
+  explanation_a?: string;
+  explanation_b?: string;
+  explanation_c?: string;
 }
 
 interface AttemptData {
@@ -97,6 +100,8 @@ function ReviewQuestionArea({
 }) {
   const renderOption = (option: OptionType) => {
     const optionText = question[`option_${option.toLowerCase()}` as keyof Question] as string;
+    const explanationKey = `explanation_${option.toLowerCase()}` as keyof Question;
+    const explanationText = question[explanationKey] as string | undefined;
     const isUserAnswer = userAnswer === option;
     const isCorrectAnswer = question.correct_option === option;
     const isUserCorrect = isUserAnswer && isCorrectAnswer;
@@ -111,20 +116,26 @@ function ReviewQuestionArea({
     }
 
     return (
-      <div
-        key={option}
-        className={`${className} rounded p-4 mb-3 pointer-events-none`}
-      >
-        <div className="flex items-start gap-3">
-          <div className="font-bold text-lg">{option}.</div>
-          <div className="flex-1">{optionText}</div>
-          {isCorrectAnswer && (
-            <div className="text-green-600 font-bold">✓ Correct</div>
-          )}
-          {isUserWrong && (
-            <div className="text-red-600 font-bold">✗ Your answer</div>
-          )}
+      <div key={option} className="mb-3">
+        <div
+          className={`${className} rounded p-4 pointer-events-none`}
+        >
+          <div className="flex items-start gap-3">
+            <div className="font-bold text-lg">{option}.</div>
+            <div className="flex-1">{optionText}</div>
+            {isCorrectAnswer && (
+              <div className="text-green-600 font-bold">✓ Correct</div>
+            )}
+            {isUserWrong && (
+              <div className="text-red-600 font-bold">✗ Your answer</div>
+            )}
+          </div>
         </div>
+        {explanationText && (
+          <div className="mt-2 text-sm text-gray-600 px-4">
+            <FormattedText content={explanationText} />
+          </div>
+        )}
       </div>
     );
   };
@@ -132,41 +143,13 @@ function ReviewQuestionArea({
   return (
     <div className="flex-1 bg-white p-6 overflow-y-auto">
       <div className="mb-6">
-        <div className="text-[#4D4C4D] leading-relaxed whitespace-pre-wrap">
-          {question.question_text}
+        <div className="text-[#4D4C4D] leading-relaxed">
+          <FormattedText content={question.question_text} />
         </div>
       </div>
 
       <div className="space-y-3">
         {(['A', 'B', 'C'] as OptionType[]).map(option => renderOption(option))}
-      </div>
-
-      <div className="mt-6 bg-[#F4F4F4] border-l-4 border-[#749B44] p-4 rounded">
-        <div className="font-bold text-[#4D4C4D] mb-2">Explanation:</div>
-        <div className="text-[#4D4C4D]">
-          {question.explanation ? (
-            <div>
-              <p className="mb-2 whitespace-pre-line">{question.explanation}</p>
-              <p className="text-sm italic">
-                The correct answer is <strong>{question.correct_option}</strong>.
-                {userAnswer 
-                  ? userAnswer === question.correct_option
-                    ? ' Your answer was correct!'
-                    : ` You selected ${userAnswer}, which is incorrect.`
-                  : ' You did not answer this question.'}
-              </p>
-            </div>
-          ) : (
-            <div>
-              The correct answer is <strong>{question.correct_option}</strong>. 
-              {userAnswer 
-                ? userAnswer === question.correct_option
-                  ? ' Your answer was correct!'
-                  : ` You selected ${userAnswer}, which is incorrect.`
-                : ' You did not answer this question.'}
-            </div>
-          )}
-        </div>
       </div>
     </div>
   );
@@ -237,7 +220,7 @@ export default function ReviewPage({ params }: { params: { attemptId: string } }
 
         const { data: questionsData, error: questionsError } = await supabase
           .from('questions')
-          .select('id, exam_id, question_text, option_a, option_b, option_c, correct_option, order_num, explanation')
+          .select('id, exam_id, question_text, option_a, option_b, option_c, correct_option, order_num, explanation_a, explanation_b, explanation_c')
           .eq('exam_id', typedAttempt.exam_id)
           .order('order_num', { ascending: true });
 

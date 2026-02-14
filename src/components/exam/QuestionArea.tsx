@@ -3,6 +3,7 @@
 import { useExamStore } from '@/store/useExamStore';
 import { useRef, useEffect } from 'react';
 import OptionItem from './OptionItem';
+import FormattedText from '../FormattedText';
 import type { OptionType } from '@/types';
 
 export default function QuestionArea() {
@@ -91,9 +92,7 @@ export default function QuestionArea() {
         className="bg-[#F4F4F4] p-4 text-[#4D4C4D] select-text"
         onMouseUp={handleMouseUp}
       >
-        <p className="text-[14px] leading-relaxed whitespace-pre-wrap">
-          {currentQuestion.question_text}
-        </p>
+        <FormattedText content={currentQuestion.question_text} />
       </div>
 
       <div className="flex flex-col gap-4">

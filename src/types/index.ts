@@ -55,7 +55,9 @@ export interface Question {
   option_c: string;
   correct_option: OptionType;
   order_num: number;
-  explanation?: string;
+  explanation_a?: string;
+  explanation_b?: string;
+  explanation_c?: string;
 }
 
 export interface AttemptInsertPayload {

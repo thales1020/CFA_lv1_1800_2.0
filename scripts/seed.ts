@@ -51,7 +51,7 @@ async function seedData() {
   const questionsContent = fs.readFileSync(questionsFilePath, 'utf-8');
   const answersContent = fs.readFileSync(answersFilePath, 'utf-8');
 
-  const questionBlocks = questionsContent.split(/(?=\d+\/)/);
+  const questionBlocks = questionsContent.split(/\r?\n(?=\d+\/)/);
   const parsedQuestions: Array<{
     order_num: number;
     question_text: string;
@@ -71,9 +71,9 @@ async function seedData() {
     if (!trimmed.includes('Q.')) continue;
 
     const questionTextMatch = trimmed.match(/Q\.\s+([\s\S]*?)(?=\nA\.)/);
-    const optionAMatch = trimmed.match(/\nA\.\s+([\s\S]*?)(?=\nB\.)/);
-    const optionBMatch = trimmed.match(/\nB\.\s+([\s\S]*?)(?=\nC\.)/);
-    const optionCMatch = trimmed.match(/\nC\.\s+([\s\S]*?)(?=\n\d+\/|\nCFA Program|$)/);
+    const optionAMatch = trimmed.match(/\nA\.\s*([\s\S]*?)(?=\nB\.)/);
+    const optionBMatch = trimmed.match(/\nB\.\s*([\s\S]*?)(?=\nC\.)/);
+    const optionCMatch = trimmed.match(/\nC\.\s*([\s\S]*?)(?=\n\d+\/|\nCFA Program|$)/);
 
     if (questionTextMatch && optionAMatch && optionBMatch && optionCMatch) {
       parsedQuestions.push({
@@ -86,7 +86,7 @@ async function seedData() {
     }
   }
 
-  const answerBlocks = answersContent.split(/(?=\d+\/\s*Solution)/);
+  const answerBlocks = answersContent.split(/\r?\n(?=\d+\/\s*Solution)/);
   const parsedAnswers: Array<{
     order_num: number;
     correct_option: string;
