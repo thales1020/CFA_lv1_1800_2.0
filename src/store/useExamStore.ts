@@ -132,14 +132,12 @@ export const useExamStore = create<ExamStore>()(
           let correctCount = 0;
           state.questions.forEach((question) => {
             const userAnswer = state.answers[question.id];
-            if (userAnswer === question.correct_option) {
+            if (userAnswer && userAnswer === question.correct_option) {
               correctCount++;
             }
           });
 
-          const score = state.questions.length > 0 
-            ? Math.round((correctCount / state.questions.length) * 100) 
-            : 0;
+          const score = correctCount;
 
           const timeSpentSeconds = (state.durationMinutes * 60) - state.timeLeftSeconds;
 

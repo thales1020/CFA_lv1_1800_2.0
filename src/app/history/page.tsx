@@ -4,48 +4,77 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { supabase } from '@/lib/supabase/client';
 
+interface ExamInfo {
+  title: string;
+  total_questions: number;
+}
+
 interface AttemptWithExam {
   id: string;
   created_at: string;
   score: number;
   time_spent_seconds: number;
-  exams: {
-    title: string;
-    total_questions: number;
-  } | null;
+  exam_id: string;
+  exams: ExamInfo | null;
 }
 
 export default function HistoryPage() {
   const [attempts, setAttempts] = useState<AttemptWithExam[]>([]);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     async function fetchHistory() {
       try {
-        const { data, error } = await supabase
-          .from('attempts')
-          .select('id, created_at, score, time_spent_seconds, exam_id')
-          .order('created_at', { ascending: false });
+        const [attemptsResult, examsResult] = await Promise.all([
+          supabase
+            .from('attempts')
+            .select('*')
+            .order('created_at', { ascending: false }),
+          supabase
+            .from('exams')
+            .select('id, title, total_questions')
+        ]);
 
-        if (error) throw error;
-        
-        // Map attempts with exam details
-        const attemptsWithExams = (data || []).map((attempt: any) => {
+        console.log('Supabase Fetch Result:', { 
+          attemptsData: attemptsResult.data, 
+          attemptsError: attemptsResult.error,
+          examsData: examsResult.data,
+          examsError: examsResult.error
+        });
+
+        if (attemptsResult.error) {
+          setError(attemptsResult.error.message);
+          throw attemptsResult.error;
+        }
+
+        if (examsResult.error) {
+          setError(examsResult.error.message);
+          throw examsResult.error;
+        }
+
+        const attemptsData = attemptsResult.data || [];
+        const examsData = examsResult.data || [];
+
+        const attemptsWithExams = attemptsData.map((attempt: any) => {
+          const matchedExam = examsData.find((exam: any) => exam.id === attempt.exam_id) as any;
           return {
-            id: attempt.id,
-            created_at: attempt.created_at,
-            score: attempt.score,
-            time_spent_seconds: attempt.time_spent_seconds,
-            exams: {
-              title: 'CFA Level 1 Mock Exam',
-              total_questions: 20
-            }
+            ...attempt,
+            exams: matchedExam ? {
+              title: matchedExam.title,
+              total_questions: matchedExam.total_questions
+            } : null
           };
         });
         
-        setAttempts(attemptsWithExams);
-      } catch (error) {
-        console.error('Error fetching history:', error);
+        setAttempts(attemptsWithExams as AttemptWithExam[]);
+      } catch (err) {
+        console.error('Error fetching history:', err);
+        if (err && typeof err === 'object' && 'message' in err) {
+          setError((err as any).message);
+        } else {
+          setError(String(err));
+        }
       } finally {
         setLoading(false);
       }
@@ -107,7 +136,13 @@ export default function HistoryPage() {
       </header>
 
       <div className="flex-1 overflow-y-auto p-4 md:p-8">
-        {attempts.length === 0 ? (
+        {error ? (
+          <div className="w-full max-w-5xl mx-auto">
+            <div className="p-4 bg-red-100 text-red-700 font-bold rounded">
+              Error: {error}
+            </div>
+          </div>
+        ) : attempts.length === 0 ? (
           <div className="w-full max-w-5xl mx-auto">
             <div className="bg-white rounded shadow-sm p-8 text-center">
               <p className="text-[#4D4C4D]">No records found</p>
@@ -126,30 +161,32 @@ export default function HistoryPage() {
                 </tr>
               </thead>
               <tbody className="divide-y divide-gray-200">
-                {attempts.map((attempt) => (
-                  <tr key={attempt.id} className="hover:bg-gray-50 transition-colors">
-                    <td className="px-6 py-4 text-[#4D4C4D]">
-                      {formatDate(attempt.created_at)}
-                    </td>
-                    <td className="px-6 py-4 text-[#4D4C4D]">
-                      {attempt.exams?.title || 'Unknown Exam'}
-                    </td>
-                    <td className="px-6 py-4 text-[#4D4C4D]">
-                      {attempt.score}/{attempt.exams?.total_questions || 0}
-                    </td>
-                    <td className="px-6 py-4 text-[#4D4C4D]">
-                      {formatTime(attempt.time_spent_seconds)}
-                    </td>
-                    <td className="px-6 py-4">
-                      <Link
-                        href={`/result/${attempt.id}`}
-                        className="inline-block px-4 py-2 bg-[#749B44] text-white rounded hover:bg-[#5D7A35] transition-colors"
-                      >
-                        View Details
-                      </Link>
-                    </td>
-                  </tr>
-                ))}
+                {attempts.map((attempt) => {
+                  return (
+                    <tr key={attempt.id} className="hover:bg-gray-50 transition-colors">
+                      <td className="px-6 py-4 text-[#4D4C4D]">
+                        {formatDate(attempt.created_at)}
+                      </td>
+                      <td className="px-6 py-4 text-[#4D4C4D]">
+                        {attempt.exams?.title || 'Unknown Exam'}
+                      </td>
+                      <td className="px-6 py-4 text-[#4D4C4D]">
+                        {attempt.score}/{attempt.exams?.total_questions || 90}
+                      </td>
+                      <td className="px-6 py-4 text-[#4D4C4D]">
+                        {formatTime(attempt.time_spent_seconds)}
+                      </td>
+                      <td className="px-6 py-4">
+                        <Link
+                          href={`/result/${attempt.id}`}
+                          className="inline-block px-4 py-2 bg-[#749B44] text-white rounded hover:bg-[#5D7A35] transition-colors"
+                        >
+                          View Details
+                        </Link>
+                      </td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
           </div>
