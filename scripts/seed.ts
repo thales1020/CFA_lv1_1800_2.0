@@ -117,6 +117,7 @@ async function seedData() {
       .replace(/\nCFA Program Level I for [^\n]+\n\d+\n/g, '\n')
       .replace(/\nGuidance for Standards[^\n]*\n[^\n]*\n/g, '\n')
       .replace(/\n{3,}/g, '\n\n')
+      .replace(/([.!?])\s*\n([ABC]\. (?:Correct|Incorrect) because)/g, '$1\n\n$2')
       .trim();
 
     if (correctOption) {

@@ -146,7 +146,7 @@ function ReviewQuestionArea({
         <div className="text-[#4D4C4D]">
           {question.explanation ? (
             <div>
-              <p className="mb-2">{question.explanation}</p>
+              <p className="mb-2 whitespace-pre-line">{question.explanation}</p>
               <p className="text-sm italic">
                 The correct answer is <strong>{question.correct_option}</strong>.
                 {userAnswer 

@@ -66,9 +66,28 @@ npx ts-node --project tsconfig.scripts.json scripts/verify-seed.ts
 - question_text clean (no "1/ Q." prefix)
 - option_a/b/c clean (no "A. ", "B. ", "C. " prefix)
 - correct_option = single char 'A', 'B', or 'C'
-- explaination = full text without truncation
+- explanation = full text without truncation
 
-## 4. Troubleshooting
+## 4. Delete Exam
+
+### List All Exams
+```bash
+npx ts-node --project tsconfig.scripts.json scripts/delete-exam.ts --list
+```
+
+### Delete by ID
+```bash
+npx ts-node --project tsconfig.scripts.json scripts/delete-exam.ts <exam_id>
+```
+
+### Delete by Title
+```bash
+npx ts-node --project tsconfig.scripts.json scripts/delete-exam.ts "MOCK 1 SESSION 1"
+```
+
+**Note:** Deleting an exam will also delete all its questions (CASCADE).
+
+## 5. Troubleshooting
 
 ### Module Not Found
 ```bash
