@@ -1,0 +1,536 @@
+CFA Program Level I for February 2024
+1
+MOCK 1 SESSION 2
+1/ An analyst gathers the following information (in $ millions) about a hedge fund:
+Initial investment cost 100
+Profit, Year 1 25
+Loss, Year 2 10
+Q. If the incentive fee is 20% and there is a clawback provision, the total incentive fee (in $ millions)
+for Years 1 and 2 is:
+A. 0.
+B. 3.
+C. 5.
+2/ Q. To be eligible for the upcoming dividend, the latest date an investor needs to purchase the share
+is on the trading day before the:
+A. ex-date.
+B. record date.
+C. declaration date.
+3/ Q. A zero coupon bond is priced at 90 and has three years to maturity. Based on a compounding
+periodicity of 4, the bond's annual yield-to-maturity is closest to:
+A. 1.8%.
+B. 2.7%.
+C. 3.5%.
+4/ Q. Investors are least likely to use derivatives to:
+A. take short positions.
+B. replicate a cash market strategy.
+C. offset market-based exposures incidental to their financing activities.
+CFA Program Level I for February 2024
+2
+5/ Q. A swap is most likely similar to a series of forward contracts when:
+A. the combined value of all forward contracts is zero.
+B. all the forward contracts have the same maturity date.
+C. the value of the long forward contracts are matched with the value of the short forward contracts at
+each swap payment date.
+6/ Q. Which of the following is the most conservative price for valuing a hedge fund's short position?
+A. The bid price
+B. The ask price
+C. The average of the bid and ask prices
+7/ Q. A security is most likely undervalued if its estimated intrinsic value is higher than its:
+A. par value.
+B. book value.
+C. market price.
+8/ Q. Which of the following measures is the slope of the capital allocation line?
+A. Sharpe ratio
+B. Treynor ratio
+C. Jensen's alpha
+9/ An analyst gathers the following information about a hedge fund established at the beginning of
+Year 1:
+Assets under management (AUM), beginning of Year 1 $100 million
+AUM, end of Year 1 $125 million
+AUM, end of Year 2 $110 million
+Management fee (calculated on end-of-year AUM) 2%
+Performance fee above high-water mark (calculated net of fees) 20%
+Q. The cumulative fee (in $ millions) earned by the hedge fund manager for the two years is closest to:
+CFA Program Level I for February 2024
+3
+A. 5.2.
+B. 7.2.
+C. 9.2.
+10/ Q. Over time, a forward contract most likely has variable:
+A. value and constant price.
+B. price and constant value.
+C. value and variable price.
+11/ An analyst gathers the following information (in $ billions) about a company:
+Market value of debt 5
+Market capitalization 43
+Enterprise value 33
+Q. The balance (in $ billions) of the company's cash and short-term investments is:
+A. 5.
+B. 10.
+C. 15.
+12/ Q. All else being equal, the value of a European put option is most likely inversely related to the
+time to expiration when interest rates are high, the time to expiration is long and the put is:
+A. at-the-money.
+B. deep in-the-money.
+C. deep out-of-the-money.
+13/ Q. Which of the following provides the best behavioral explanation of the value stock anomaly?
+A. The halo effect
+B. The disposition effect
+C. The effects of the framing bias
+CFA Program Level I for February 2024
+4
+14/ Q. A market index consists of 100 assets. Investment 1 consists of one asset that is randomly
+chosen from the index.
+Every month the asset is replaced by a new randomly chosen asset. Investment 2 equally weights all
+assets in the index. Over a period of 100 months, the annualized standard deviation of Investment 1 is
+most likely:
+A. less than the annualized standard deviation of Investment 2.
+B. equal to the annualized standard deviation of Investment 2.
+C. greater than the annualized standard deviation of Investment 2.
+15/ Q. The current yield for a coupon-paying bond trading at a premium is:
+A. less than the coupon rate.
+B. equal to the coupon rate.
+C. greater than the coupon rate.
+16/ Q. The market portfolio has an expected return of 10% and a standard deviation of 11%. If the riskfree rate is 2%, the slope of the capital market line is closest to:
+A. 0.73.
+B. 0.91.
+C. 1.38.
+17/ Q. A key catalyst for the relative growth of passive investing compared to active investing is most
+likely the:
+A. lower costs of index funds.
+B. higher returns to investors from outperforming benchmarks.
+C. increased correlation of returns between traditional investments and alternative investments.
+18/ An analyst gathers the following information about a bond:
+Price Yield-to-Maturity (%)
+103.52 3.7
+103.84 3.3
+CFA Program Level I for February 2024
+5
+Q. If the bond currently trades at a price of 103.67 with a yield-to-maturity of 3.5%, the approximate
+convexity is closest to:
+A. 0.048
+B. 0.096
+C. 48.230
+19/ Q. If 1,000 shares of stock purchased at $30 per share on 75% margin are later sold at $26 per
+share, the return on equity is closest to:
+A.-17.8%.
+B.-13.3%.
+C.-10.0%.
+20/ Q. An American waterfall distributes performance fees on a(n):
+A. deal-by-deal basis and is more advantageous to the general partner than a European waterfall.
+B. deal-by-deal basis and is more advantageous to the limited partners than a European waterfall.
+C. aggregated fund level and is more advantageous to the limited partners than a European waterfall.
+21/ Q. All else being equal, non-cumulative preference shares are more risky for investors than:
+A. cumulative preference shares.
+B. dividend-paying common shares.
+C. non-dividend-paying common shares.
+22/ Q. Which of the following statements is most likely correct regarding the spot and forward curves.
+The spot curve:
+A. can be calculated from the forward curve, and the forward curve can be calculated from the spot
+curve.
+B. can be calculated from the forward curve, but the forward curve cannot be calculated from the spot
+curve.
+C. cannot be calculated from the forward curve, but the forward curve can be calculated from the spot
+curve.
+CFA Program Level I for February 2024
+6
+23/ An investor sells a European put option with the following characteristics:
+ Put price 30
+Exercise price 600
+Q. If the price of the underlying at expiration is 620, the profit for the seller is:
+A. 10.
+B. 20.
+C. 30.
+24/ Q. With respect to an investment policy statement, which of the following is best classified as a
+legal and regulatory constraint?
+A. An investor's tax status
+B. A pension fund's self-investment limit
+C. An investor's desire to avoid investments in the gambling industry
+25/ Q. According to put-call-forward parity, the difference between the price of a put and the price of
+a call is most likely equal to the difference between:
+A. forward price and spot price discounted at the risk-free rate.
+B. spot price and exercise price discounted at the risk-free rate.
+C. exercise price and forward price discounted at the risk-free rate.
+26/ Q. With respect to a client's IPS, which of the following measures is most likely used when stating
+a relative risk objective?
+A. Value at risk
+B. Tracking risk
+C. Standard deviation of returns
+27/ Q. A call option is in the money if the exercise price minus the price of the underlying at expiration
+is:
+A. less than zero.
+B. equal to zero.
+CFA Program Level I for February 2024
+7
+C. greater than zero.
+28/ Q. A 5% semi-annual pay bond with a par value of $1,000 is priced for settlement on February 5. If
+interest payments are made on May 31 and November 30, accrued interest based on 30/360 daycount convention is closest to:
+A. $9.03.
+B. $9.18.
+C. $9.31.
+29/ An analyst gathers the following information about returns for an equity index:
+Year Return %
+1 5
+2 3
+3 12
+Q. The index's total return over three years is closest to:
+A. 18%.
+B. 20%.
+C. 21%.
+30/ Q. An analyst discovers that several stocks exhibit a pattern of price declines in the spring and
+price increases in the fall. If the analyst can consistently earn abnormal returns using this information,
+the market is most likely:
+A. inefficient.
+B. weak-form efficient.
+C. semi-strong-form.
+CFA Program Level I for February 2024
+8
+31/ An investor gathered the following data:
+Par value of preferred stock offered with a 6% dividend rate $100
+Company's sustainable growth rate 5%
+Yield on comparable preferred stock issues 11.5%
+Investor's marginal tax rate 30%
+Q. The value of the company's preferred stock is closest to:
+A. $52.17
+B. $54.78
+C. $96.92
+32/ Q. In an order-driven market, if the trade price is determined by the limit price of an order, the
+market most likely operates under the:
+A. uniform pricing rule.
+B. derivative pricing rule.
+C. discriminatory pricing rule.
+33/ An analyst gathers the following information on three investors. Each investor holds a bond with a
+Macaulay duration of 5.5 years in his portfolio:
+Investment Horizon
+ Investor A 5 years
+ Investor B 2 years
+ Investor C 8 years
+Q. All else equal, which investor is currently most vulnerable to an increase in interest rates?
+A. Investor A
+B. Investor B
+C. Investor C
+CFA Program Level I for February 2024
+9
+34/ An analyst gathers the following data about three assets' returns:
+ Correlation with the Market
+Asset Portfolio's Returns Beta
+1 0.8 1.000
+2 0.7 1.225
+3 0.5 1.125
+Q. If the market portfolio's standard deviation of returns is 20%, the asset with the highest standard
+deviation is:
+A. Asset 1.
+B. Asset 2.
+C. Asset 3.
+35/ Jim Cotter is considering investing in a stock index fund and a property investment fund. His
+planned investment amounts, fund returns, and standard deviations are given in the table. The
+correlation between the two funds is -0.1.
+Fund Investment Amount Expected Return Standard Deviation
+Stock index 10M 20% 35%
+Property investment 90M 33% 70%
+Q. The portfolio's standard deviation is closest to:
+A. 62.75%.
+B. 63.10%.
+C. 63.45%.
+36/ Q. For an option-free bond, effective duration:
+A. will be equal to modified duration if the yield curve is absolutely flat.
+B. measures interest rate risk for both parallel and non-parallel benchmark yield curve shifts.
+C. is an estimate of the percentage change in bond price given a change in the bond's yield to maturity.
+CFA Program Level I for February 2024
+10
+37/ Q. An analyst observes that stock markets usually demonstrate return distributions concentrated
+to the right with a higher frequency of negative deviation from the mean. This feature is most likely
+known as:
+A. kurtosis.
+B. positive skewness.
+C. negative skewness.
+38/ Q. Which of the following statements is most accurate? In derivatives pricing:
+A. investors are assumed to be risk averse.
+B. expected payoffs of the derivative can be discounted at the risk-free rate.
+C. a portfolio consisting of the underlying and the derivative must earn the risk-free rate plus a risk
+premium.
+39/ Q. Which of the following statements about digital assets is most accurate?
+A. Most have an inherent value based on the expected cash flow
+B. They can be purchased through indirect investment vehicles such as hedge funds
+C. They are generally recorded in private ledgers maintained by central intermediaries
+40/ Q. The portion of a bond's value that an investor loses in an event of default best defines:
+A. default risk.
+B. loss severity.
+C. expected loss.
+41/ Q. Which investment will most likely expose investors to the greatest level of extension risk?
+A. Commercial mortgage-backed securities with a balloon payment
+B. Shorter-term tranches in a collateralized mortgage obligation structure
+C. Planned amortization class tranches in a collateralized mortgage obligation structure
+CFA Program Level I for February 2024
+11
+42/ Q. A fiduciary call is equal to which of the following positions?
+A. Long a call and long a risk-free bond
+B. Long a call, long a risk-free bond, and short a put
+C. Long a call, short the underlying, and long a risk-free bond
+43/ An analyst gathers the following information about a company:
+Next year's EPS forecast $0.60
+Dividend payout ratio 45%
+Growth rate 7%
+Q. Using the Gordon growth model, if the analyst's required return is 10%, the justified forward P/E for
+the company is closest to:
+A. 15.
+B. 18.
+C. 20
+44/ An analyst gathers the following information about a company and its common stock:
+Expected dividend per share (D₁) $2
+Estimated dividend growth rate 4%
+Return on equity 9%
+Q. Based on the Gordon growth model, if the required rate of return increases from 8% to 14%, the
+value of the stock decreases by:
+A. 50%.
+B. 60%.
+C. 75%.
+45/ Q. Which of the following derivative contracts has a hard commodity underlying?
+A. Cattle futures
+B. Soybean futures
+C. Aluminum futures
+CFA Program Level I for February 2024
+12
+46/ Q. The historical results forecasting approach is most appropriate for a company:
+A. making a large acquisition.
+B. operating in a cyclical industry.
+C. with a low sensitivity to the business cycle.
+47/ Q. At the initiation of a securitization, the primary role of the special purpose entity is to:
+A. sell the collateral.
+B. service the collateral.
+C. purchase the collateral.
+48/ Q. Investing in correctional facilities to be constructed and sold to the government is best
+described as a(n):
+A. greenfield investment.
+B. brownfield investment.
+C. an economic infrastructure investment.
+49/ Q. On 1 January, an investor purchases an option-free bond that pays an annual coupon rate of
+10% on Dec 31 and matures in ten years at its par value of $100. The investor plans to sell the bond
+immediately after receiving the seventh coupon. If the coupons are reinvested at an annual interest
+rate of 8% over the investor's holding period, the future value of the reinvested coupon payments at
+the end of the investor's holding period is closest to:
+A. $70.00.
+B. $75.90.
+C. $89.23.
+50/ An analyst gathers the following information (in £ millions) about a company's fiscal year:
+Net income 1,500
+Average total assets 11,500
+Average shareholders' equity 7,500
+Q. If the dividend payout ratio is 45%, the sustainable growth rate is closest to:
+CFA Program Level I for February 2024
+13
+A. 7%.
+B. 9%.
+C. 11%.
+51/ Q. In an efficient market, asset prices most likely react to the release of:
+A. expected information only.
+B. unexpected information only.
+C. both expected information and unexpected information.
+52/ Q. The multiple of invested capital (MOIC) measure takes into account:
+A. the realized value of an investment only.
+B. the residual asset value of an investment only.
+C. both the realized value of an investment and the residual asset value of an investment.
+53/ Q. Consider two 10-year bonds, one that contains no embedded options and the other that gives
+its owner the right to convert the bond to a fixed number of shares of the issuer's common stock. The
+convertibility option in the second bond cannot be exercised for five years. The bonds are otherwise
+identical. Compared with the yield on the convertible bond, the yield on the option-free bond is most
+likely:
+A. lower.
+B. the same.
+C. higher.
+54/ Q. The type of index weighting system in which a stock split on one constituent security changes
+the weights on all the securities in the index is:
+A. price weighting.
+B. equal weighting.
+C. value weighting.
+CFA Program Level I for February 2024
+14
+55/ Q. Two assets are correctly priced according to the CAPM. If the assets have the same expected
+variance of returns but different expected returns, the two assets must have different levels of:
+A. systematic risk only.
+B. unsystematic risk only.
+C. both systematic risk and unsystematic risk.
+56/ An analyst gathers the following information about a market for a stock:
+ Best offer $48
+Market bid-ask spread $2
+Q. If a new sell limit order is placed at $49, the limit order:
+A. takes the market.
+B. makes the market.
+C. is behind the market.
+57/ Q. Which of the following statements regarding certificates of deposit (CDs) is most accurate?
+A. Small-denomination CDs are typically traded among institutional investors.
+B. Non-negotiable CDs can be sold in the open market prior to the maturity date.
+C. CDs are available in domestic bond markets as well as in the Eurobond market.
+58/ Q. Which of the following lines is depicted on a graph using systematic risk on the horizontal axis?
+A. Capital market line (CML)
+B. Security market line (SML)
+C. Capital allocation line (CAL)
+59/ Q. Which of the following investors is least likely to be concerned about liquidity risk?
+A. A manager of a fixed-income mutual fund
+B. An individual investor intending to hold a bond to maturity
+C. An investor using repurchase agreements to purchase bonds
+CFA Program Level I for February 2024
+15
+60/ Q. Information-motivated traders are most likely to differ from pure investors in that they:
+A. pay lower transaction fees.
+B. expect to earn excess returns.
+C. hold well-diversified portfolios.
+61/ Q. An investor bears more risk than initially thought because of the failure to consider the
+interaction of credit risk and market risk. This type of risk interaction is best described as:
+A. solvency risk.
+B. wrong-way risk.
+C. operational risk.
+62/ Q. Which of the following industry classification schemes covers private companies, non-profits,
+and government entities?
+A. The Industry Classification Benchmark (ICB)
+B. The Refinitiv Business Classification (TRBC)
+C. The Global Industry Classification Standard (GICS)
+63/ Q. A high-quality and a high-yield corporation are each issuing subordinated debt with similar
+characteristics. Compared to the high-yield issuer, the notching adjustment for the high-quality issuer
+will most likely be:
+A. smaller.
+B. the same.
+C. larger.
+64/ Q. The holders of common shares of a company are legally entitled to:
+A. receive regular dividends from the company.
+B. a repayment of the purchase price of their shares.
+C. a claim on the company's net assets in the event of liquidation.
+CFA Program Level I for February 2024
+16
+65/ Q. Which of the following categories of private debt most likely has the highest level of risk for an
+investor?
+A. Mezzanine debt
+B. Senior direct debt
+C. Infrastructure debt
+66/ Q. Hedge funds are least likely to have restrictions concerning:
+A. the use of derivatives.
+B. the withdrawal of invested funds.
+C. the number of investors in the fund.
+67/ Q. After issuance, the coupon rate of a floating-rate bond is most likely influenced by changes in:
+A. the reference rate only.
+B. the issuer's credit quality only.
+C. both the reference rate and the issuer's credit quality.
+68/ Q. An investor buys a stock for $108 on margin by posting 40% of the initial stock price as equity. If
+the maintenance margin requirement for the position is 20%, a margin call first occurs when the price
+falls below:
+A. $64.80.
+B. $81.00.
+C. $86.40.
+69/ Q. All else being equal, which of the following statements based on the binomial model is
+accurate? When the volatility of the underlying increases, the value of a:
+A. put option and the value of a call option on the underlying will increase.
+B. put option on the underlying will increase while the value of a call option on the underlying will
+decrease.
+C. call option on the underlying will increase while the value of a put option on the underlying will
+decrease.
+CFA Program Level I for February 2024
+17
+70/ Q. An analyst calculates the duration of a portfolio containing only fixed-rate bonds, callable
+bonds, and asset-backed securities. Which duration measure is the most appropriate to use?
+A. Macaulay duration
+B. Effective duration
+C. Modified duration
+71/ Q. Consider a put option selling for $4 in which the exercise price is $58. What is the profit for a
+put buyer if the price of the underlying at expiration is $57?
+A.-$3
+B. $1
+C. $3
+72/ Q. A short exposure to an underlying instrument is achieved by:
+A. writing a put option.
+B. buying a put option.
+C. buying a call option.
+73/ Q. All else equal, interest rate risk is lowest for which of the following non-callable bonds?
+A. Discount
+B. Premium
+C. Zero-coupon
+74/ Q. Which of the following types of investors most likely has the highest risk tolerance?
+A. Banks
+B. Endowments
+C. Insurance companies
+CFA Program Level I for February 2024
+18
+75/ Q. For an investor with a long position, the price of a futures contract will most likely be higher
+than the price on a forward contract on the same asset with the same expiration date if there is a:
+A. negative correlation between the futures price and interest rates.
+B. zero correlation between the futures price and interest rates.
+C. positive correlation between the futures price and interest rates.
+76/ Q. Which of the following investments most likely provides an investor with indirect equity
+exposure to real estate?
+A. Real estate investment trusts
+B. Real estate limited partnerships
+C. Commercial mortgage-backed securities
+77/ Q. Two risk managers are discussing how an organization's risk tolerance should be determined.
+The first manager says, "The risk tolerance must reflect the losses or shortfalls that will cause the
+organization to fail to meet critical objectives." The second manager responds, "The risk tolerance
+must reflect the external forces that bring uncertainty to the organization." Which of them is most
+likely correct?
+A. Both risk managers
+B. The first risk manager
+C. The second risk manager
+78/ Q. In contrast to a contingent claim, a forward commitment creates counterparty risk for:
+A. the long position only.
+B. the short position only.
+C. both the long and the short positions.
+79/ Q. Management fees for private equity funds are most likely based on:
+A. invested capital.
+B. committed capital
+C. assets under management.
+CFA Program Level I for February 2024
+19
+80/ Q. Which of the following offers the flexibility of delaying harvests when their prices are down?
+A. Farmland only
+B. Timberland only
+C. Both farmland and timberland
+81/ Q. Compared with co-investing, direct investing in alternative investments most likely offers:
+A. reduced control over the investment selection process.
+B. the same level of control over the investment selection process.
+C. higher control over the investment selection process.
+82/ Q. An investor who prefers an asset with an uncertain expected payoff of $50 to a guaranteed
+payoff of $50 is best described as:
+A. risk averse.
+B. risk neutral.
+C. risk seeking.
+83/ Q. Which of the following market anomalies describes the consistent outperformance of stocks
+with low P/E ratios?
+A. The size effect
+B. The value effect
+C. The earnings surprise anomaly
+84/ Q. The Procedures section of an investment policy statement (IPS) most likely:
+A. explains the steps to keep the IPS current.
+B. provides information about the permissible use of leverage.
+C. details the investor's policy with respect to rebalancing asset class weights.
+CFA Program Level I for February 2024
+20
+85/ Q. In a positive interest rate environment, the modified duration of an option-free bond is most
+likely:
+A. less than the Macaulay duration.
+B. the same as the Macaulay duration.
+C. greater than the Macaulay duration.
+86/ Q. Which of the following asset-backed securities provides the highest level of protection against
+prepayment risk?
+A. A mortgage pass-through security
+B. A collateralized mortgage obligation
+C. A commercial mortgage-backed security
+87/ Q. Consider a $100 par value bond with a 7% coupon paid annually and five years to maturity. At a
+discount rate of 6.5%, the value of the bond today is $102.08. One day later, the discount rate
+increases to 7.5%. Assuming the discount rate remains at 7.5% over the remaining life of the bond,
+what is most likely to occur to the price of the bond between today and maturity? The price:
+A. decreases then increases.
+B. increases then decreases.
+C. decreases then remains unchanged.
+88/ Q. Which of the following best describes an investment principle used in formulating a client's
+strategic asset allocation?
+A. Assets with greater nonsystematic risk should be given less weight in a portfolio
+B. Returns on asset classes are a function of systematic factors relevant to those asset classes
+C. The more efficient an asset class, the more skillful an asset manager has to be to add value
+89/ Q. Which type of index does not use market capitalization as a weighting method?
+A. A commodity index
+B. A broad equity market index
+C. A real estate investment trust (REIT) index
+CFA Program Level I for February 2024
+21
+90/ Q. A bond has a duration of 4.50 and convexity of 39.20. If interest rates increase by 0.5%, the
+percentage change in the bond's price will be closest to:
+A.-2.30%.
+B.-2.25%.
+C.-2.20%.

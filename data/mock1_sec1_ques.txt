@@ -1,0 +1,643 @@
+CFA Program Level I for February 2024
+1
+MOCK 1 SESSION 1
+1/ Q. Which of the following is a recommended procedure for compliance with the Standard relating
+to responsibilities of supervisors? Members should encourage their firms to:
+A. adopt a code of ethics that addresses general fiduciary concepts.
+B. provide the firm's clients with a copy of detailed compliance procedures.
+C. commingle the firm's code of ethics with its detailed compliance procedures.
+2/ Q. According to the guidance provided by the Standards, which of the following is not among the
+recommended procedures for compliance with the Standard relating to independence and objectivity?
+A. Create a restricted list
+B. Prohibit the acceptance of gifts
+C. Appoint a senior compliance officer with oversight responsibilities
+3/ Q. In the CFA Institute Standards of Professional Conduct, Standard III-Duties to Clients most likely
+includes which of the following subsections?
+A. Knowledge of the Law
+B. Performance Presentation
+C. Independence and Objectivity
+4/ Q. Akash Gupta has just finished taking the Level II CFA exam for the second time. To protect the
+integrity of the exam, Gupta is careful not to discuss the exam questions with other candidates. Gupta
+calls his friend, a member, and contrasts his two attempts by highlighting that there were many
+calculation questions on derivatives in the first instance and none in the second. Later, in a public blog
+on investment education, Gupta shares his strong disagreement regarding CFA Institute shifting to
+computer-based testing. Has Gupta violated the Standards?
+A. No
+B. Yes, by highlighting that there were no calculation questions on derivatives in the recent exam
+C. Yes, by expressing his disagreement in a public blog regarding CFA Institute shifting to computer-based
+testing
+CFA Program Level I for February 2024
+2
+5/ Q. A portfolio manager is hired by an executive manager of a trust. The duty of loyalty is owed to
+the:
+A. trustee.
+B. executive manager.
+C. beneficiaries of the trust.
+6/Q. Melissa Kon, CFA, is an equity analyst. She recently left her job at Hamm Capital (HC) to join Eagle
+Investments (El). Kon obtains the express consent of HC to take one of her historical research reports
+with her. At El, she diligently updates the report and publishes it. Afterwards, she re-creates
+supporting records from sources obtained at HC. Has Kon violated the Standards?
+A. No
+B. Yes, by publishing the updated research report
+C. Yes, by re-creating the supporting records from sources obtained at Hamm Capital
+7/ Q. Anisha Joshi, CFA, develops a product that selects mutual funds based on historical data. Joshi
+tests her methodology and produces simulated performance results. The promotional material for the
+product does not indicate that the results are simulated. Joshi has most likely violated the Standards
+relating:
+A. only to fair dealing.
+B. only to performance presentation.
+C. both to fair dealing and to performance presentation.
+8/ Q. A member receives referral fees for recommending third-party services to clients. Before
+entering into an agreement with a new client, which of the following must the member disclose to the
+new client?
+A. Flat fees only
+B. In kind benefits only
+C. Both flat fees and in-kind benefits
+9/ Q. Maria Perez, CFA, is a portfolio manager for an advisory firm that utilizes external mutual funds.
+The firm has a committee that selects external funds, using an analytical model to determine their
+choices. Although Perez has no reason to question the committee's research process, she does not like
+the committee's choice for a bond fund because it is not appropriate for all her clients. She researches
+CFA Program Level I for February 2024
+3
+and selects a different bond fund that better meets her clients' needs, but her manager tells her that
+she is not permitted to make independent fund purchase decisions. She then invests in the fund
+chosen by the committee for all of her clients. Has Perez most likely violated the Standards?
+A. No
+B. Yes, the Standard relating to suitability
+C. Yes, the Standard relating to diligence and reasonable basis
+10/ Q. Suzanna Bermi, CFA, manages portfolios for retail clients. A friend asks her if Bermi can provide
+investment advice in Bermi's spare time. The friend offers a donation to Bermi's favorite charity in
+exchange for Bermi's advice. Bermi accepts the offer and starts providing investment advice to her
+friend immediately after sending an email to her firm's compliance department about the
+arrangement, including the fact that she receives no cash payments from her friend. Has Bermi most
+likely violated the Standards?
+A. No
+B. Yes, the Standard relating to additional compensation arrangements
+C. Yes, the Standard relating to communication with clients and prospective clients
+11/ Q. Which of the following is a violation according to the Standard relating to preservation of
+confidentiality?
+A. Members share details relating to former clients with third party service providers.
+B. Members convey to clients that not all firm-sponsored resources may be appropriate for
+communicating confidential information.
+C. When allowed under the law, members share confidential client information to defend themselves in
+an investigation by the CFA Institute Professional Conduct Program.
+12/ Q. Adira Badawi, CFA, who owns a research and consulting company, is an independent board
+member of a leading cement manufacturer in a small local market. Because of Badawi's expertise in
+the cement industry, a foreign cement manufacturer looking to enter the local market has hired him to
+undertake a feasibility study. Under what circumstances can Badawi most likely undertake the
+assignment without violating the Standards?
+A. By making full disclosure to both companies
+B. By receiving written permission from the local company
+C. By signing confidentiality agreements with both companies
+CFA Program Level I for February 2024
+4
+13/ Q. David Kertz, CFA, a portfolio manager, is considering investing in a small cap firm he stopped
+following three years ago due to poor trading liquidity. Based on published stock exchange data, the
+company's trading liquidity has improved considerably. Kertz arranges to obtain some third-party
+research reports on the firm. He assesses the assumptions used, determines the rigor of the analysis,
+and the reports' published dates. Which of the following additional actions should Kertz most likely
+undertake next to meet the Standards?
+A. Consider the validity of the published trading liquidity data
+B. Evaluate the independence of the third-party recommendations
+C. Determine if each third party analyst's opinion reflects their firm's recommendation
+14/ Q. While waiting in the business class lounge before boarding an airplane, Becca Msafari, CFA, an
+equity analyst, overhears a conversation by a group of senior managers, including members of the
+Board, from a large publicly listed bank. The managers discuss staff changes necessary to
+accommodate their regional expansion plans. Msafari hears several staff names mentioned. Under
+what circumstances could Msafari most likely use this information when making an investment
+recommendation to her clients?
+A. Under no circumstances
+B. If she does not breach the confidentiality of names of staff
+C. If the discussed changes are unlikely to affect investor perception of the bank
+15/ Q. A member is developing allocation procedures for block trades and new issues. According to
+the recommended procedures for compliance with the Standard relating to fair dealing, the member's
+allocation procedures should involve:
+A. prohibiting consideration of advanced interest when allocating trades for new issues.
+B. bundling orders on a first-in, first-out basis for efficiency as appropriate for the asset class.
+C. giving client accounts participating in a block trade execution prices corresponding to order arrival
+time.
+16/ Q. Which of the following is most accurate according to the Standard relating to knowledge of the
+law? Members are required to:
+A. dissociate from client activities they believe are unethical.
+B. have detailed knowledge of all the laws that could potentially govern their activities.
+C. report potential violations of the Code and Standards committed by fellow members to the CFA
+Institute Professional Conduct Program.
+CFA Program Level I for February 2024
+5
+17/ Q. Ekta Prakash, CFA, works as an investment advisor for TXM Investments (TXM). Prakash advises
+a client to transfer $150,000 from a tax-deferred investment account to TXM's multi-cap fund. Prakash
+discloses to her client that withdrawals from the tax-deferred account will attract a penalty of $15,000
+but assures the client that the cost can be recovered through better investment returns from TXM's
+fund. Prakash has violated the Standard(s) relating to:
+A. only misrepresentation.
+B. only loyalty, prudence, and care.
+C. both misrepresentation and loyalty, prudence, and care.
+18/ Q. Pia Nilsson is a sole proprietor investment advisor. An economic recession has reduced the
+number of clients she advises and caused revenues to decline. As a result, Nilsson has not paid her CFA
+Institute membership dues for the past two years. When a national financial publication recently
+interviewed Nilsson, she indicated that up until two years ago she had been a CFA charterholder and a
+CFA Institute member in good standing. In addition, she stated the completion of the CFA Program
+enhanced her portfolio management skills and enabled her to achieve superior returns on behalf of
+her clients. Which of Nilsson's following actions most likely violated the CFA Institute Standards of
+Professional Conduct?
+A. Nonpayment of CFA Institute membership dues
+B. Attributing her superior returns to participation in the CFA Program
+C. Indicating that being a CFA charterholder has enhanced her portfolio management skills
+19/ Q. According to the Standard related to communication with clients and prospective clients,
+members must:
+A. only distinguish between fact and opinion in the presentation of investment analyses.
+B. only promptly disclose material and nonmaterial changes in the investment processes they use to
+select securities.
+C. both distinguish between fact and opinion in the presentation of investment analyses and promptly
+disclose material and nonmaterial changes in the investment processes they use to select securities.
+20/ Q. According to the Standards, transaction-based manipulation includes:
+A. acquiring a dominant position in a derivative to exploit the price of a related underlying.
+B. taking an aggressive investment position in a security with an intent to exploit market inefficiencies.
+C. issuing an overly optimistic projection of a security's value to induce trading by other market
+participants.
+CFA Program Level I for February 2024
+6
+21/ Q. Which of the following statements is accurate according to the GIPS standards?
+Statement 1 A firm must perform verification to claim compliance with the GIPS standards.
+Statement 2 Verification ensures accuracy of specific composite presentations.
+Statement 3 Verification is performed with respect to an entire firm.
+A. Statement 1
+B. Statement 2
+C. Statement 3
+22/ Q. According to the GIPS standards, a firm's definition of discretion establishes criteria to judge
+which of the following?
+A. Investment strategy the firm must implement
+B. Portfolios the firm must include in a composite
+C. Accounts the firm may exclude based on performance criteria
+23/ Q. Yip Wai Yin, a CFA candidate, is an independent mutual fund sales agent. For every front-end
+load product she promotes, Yip receives a portion of the front-end fee as commission at the time of
+sale. For every back-end load fund she sells, Yip receives a smaller commission paid at the end of the
+year. Yip always informs her clients that she is paid a commission as an agent, but does not provide
+details of the compensation structure. When pitching her favored front- end load product line she tells
+clients 20% of her commission is always invested in the same fund as proof of her confidence in the
+fund she recommends. Which Standard does Yip least likely violate?
+A. Referral Fees.
+B. Disclosure of Conflicts.
+C. Priority of Transactions.
+24/ Q. For a retail client's account to be included in a GIPS-compliant firm's composite, it will most
+likely be in a composite:
+A. restricted to retail accounts.
+B. composed of discretionary accounts.
+C. with both fee-paying and non-fee-paying accounts.
+CFA Program Level I for February 2024
+7
+25/ Q. The Standard relating to misconduct addresses:
+A. only all conduct that reflects poorly on members' professional integrity.
+B. only all actions violating trust in members' professional and private lives.
+C. both all conduct that reflects poorly on members' professional integrity and all actions violating trust
+in members' professional and private lives.
+26/ Q. Thomas Turkman recently hired Georgia Viggen, CFA, as a portfolio manager for North South
+Bank. Although Viggen worked many years for a competitor, West Star Bank, the move was
+straightforward since she did not have a non-compete agreement with her previous employer. Once
+Viggen starts working for Turkman, the first thing she does is to bring a trading software package she
+developed and used at West Star to her new employer. Using public information, Viggen contacts all of
+her former clients to convince them to move with her to North South. Viggen also convinces one of
+the analysts she worked with at West Star to join her at her new employer. Viggen most likely violated
+the CFA Institute Code of Ethics and Standards of Professional Conduct concerning her actions
+involving:
+A. clients.
+B. the analyst.
+C. trading software.
+27/ Q. Which of the following claims can an asset management firm most likely make regarding the
+GIPS standards?
+A. Claim GIPS compliance using the GIPS Compliance Statement
+B. State that the firm will achieve GIPS compliance by a future date
+C. Claim partial GIPS compliance with details on areas of non-compliance
+28/ Q. Countries who are global leaders and use their economic influence to control resources are best
+described as:
+A. autarkic.
+B. hegemonic.
+C. multilateral.
+CFA Program Level I for February 2024
+8
+29/ An analyst gathers the following information for a company's fiscal year beginning 1 January:
+Net income $1,800,000
+Dividends declared and paid on convertible preferred $600,000
+Weighted average common shares outstanding during the year 200,000
+Convertible preferred shares outstanding during the year 50,000
+Q. If one preferred share can be converted into four common shares and there are no other potentially
+dilutive securities outstanding, reported diluted EPS for the year is:
+A. $3.00.
+B. $4.50.
+C. $6.00.
+30/ Q. Normalized earnings are best defined as the:
+A. average level of achieved earnings over a long-term historical period.
+B. estimated going-concern value of the company after the explicit forecast period.
+C. expected level of mid-cycle earnings in the absence of any unusual or temporary factors.
+31/ Q. All else being equal, an increase in the central bank's policy rate most likely puts downward
+pressure on domestic inflation by:
+A. increasing consumption growth.
+B. improving investors' confidence.
+C. strengthening the country's currency.
+32/ A technology company, reporting under US GAAP, has three classes of intangible assets. The table
+below shows information on each of the three classes (in USD thousands):
+Goodwill Licenses Computer Software
+31 December of Year 1 65,321 8,243 5.257
+Exchange movements in Year 2 7,324 821 334
+Amortization charge for Year 2 --- 1,244 2,102
+Net additions (disposals) in Year 2 --- (25) ---
+31 December of Year 2 73,194 10,856 8.214
+CFA Program Level I for February 2024
+9
+Q. Based on the data provided, the intangible asset that has the largest absolute impairment charge
+for the period ended 31 December of Year 2 is:
+A. goodwill.
+B. licenses.
+C. computer software.
+33/ Q. All else being equal, a decrease in which of the following financial metrics would most likely
+result in a lower return on equity (ROE)?
+A. Leverage
+B. The tax rate
+C. Days of sales outstanding
+34/ An analyst regresses net profit margin (NPM) on research and development expenditure scaled by
+revenues (RDR) and gathers the following information:
+ Estimate
+Intercept 17.38%
+Slope coefficient -0.6000
+Q. The predicted value of NPM for a forecasted RDR of 7% is closest to:
+A. 4.20%.
+B. 13.18%.
+C. 21.58%.
+35/ Q. For a company with taxable income, if interest expense becomes tax deductible, the effective
+marginal cost of debt:
+A. decreases.
+B. remains the same.
+C. increases
+36/ Q. The supply curve for a specific goods shows the highest:
+A. quantity sellers are willing to offer at each price.
+CFA Program Level I for February 2024
+10
+B. price buyers are willing to pay for each quantity.
+C. price sellers are willing to accept for each quantity.
+37/ Q. Which of the following expense recognition choices is least consistent with conservative
+accounting of reported net income?
+A. Recognizing expenses later rather than earlier
+B. Reflecting lower warranty expenses due to improved product quality
+C. Estimating lower uncollectible accounts due to stricter credit policies
+38/ Q. Which of the following ratios will most likely increase as a result of an inventory write-down?
+A. Current ratio
+B. Total asset turnover ratio
+C. Receivables turnover ratio
+39/ Q. Which of the following statements about evaluating a project with a real option is most
+accurate?
+A. The cost of the real option should be ignored as it represents a sunk cost
+B. The value of the real option less the incremental cost should be included in the project NPV
+C. If the project NPV is negative before considering the real option, management should not undertake
+the project
+40/ Q. In a simple linear regression model, the residual for an observation of Y is computed as:
+A. the observed value of Y divided by the expected value of Y.
+B. the unexplained variation in Y divided by the explained variation in Y.
+C. the difference between the observed value of Y and the estimated value of Y.
+CFA Program Level I for February 2024
+11
+41/ An analyst gathers the following information about two projects with the same discount rate:
+Year Project 1 Cash Flows Project 2 Cash Flows
+0 -$1,000 -$1,300
+1 $400 $500
+2 $400 $500
+3 $400 $500
+Q. If the NPV of Project 1 is $0, the NPV of Project 2 is:
+A. negative.
+B. zero.
+C. positive.
+42/ Q. In machine learning, overfitting can most likely be mitigated by using:
+A. higher computing power.
+B. a simpler machine-learning model.
+C. an unsupervised machine-learning model.
+43/ Q. Under the revaluation model, an initial revaluation that increases the carrying value of an asset
+most likely results in a:
+A. higher net profit margin.
+B. lower financial leverage ratio.
+C. higher total asset turnover ratio.
+44/ Q. With respect to fiscal policy, which of the following is an automatic stabilizer?
+A. Tax rate changes
+B. Infrastructure spending
+C. Payment of unemployment benefits
+CFA Program Level I for February 2024
+12
+45/ Q. The regulation of economic activity over time is associated with:
+A. fiscal policy only.
+B. monetary policy only.
+C. both fiscal policy and monetary policy.
+46/ Q. Ignoring income taxes, an impairment loss on equipment will most likely decrease:
+A. net profit margin.
+B. total asset turnover.
+C. working capital turnover.
+47/ Q. If an auditor is experiencing some scope limitation, but can still issue an opinion, the auditor
+most likely issues a(n):
+A. adverse opinion.
+B. qualified opinion.
+C. disclaimer of opinion.
+48/ An analyst gathers the following annual information on three companies:
+ Company A Company B Company C
+Sales $40,000 $200,000 $450,000
+Cost of sales $21,000 $110,000 $240,000
+Selling, general and administrative $6,000 $24,000 $48,000
+All other operating expenses $1,000 $2,000 $5,000
+Operating income $12,000 $64,000 $157,000
+Interest and other expense $2,000 $0 $14,000
+Taxes $4,000 $26,000 $58,000
+Net income $6,000 $38,000 $85,000
+Q. The company with the highest gross profit margin is:
+A. Company A.
+B. Company B.
+CFA Program Level I for February 2024
+13
+C. Company C.
+49/ Q. The primary responsibility of a corporation's directors is to act in the best interest of the:
+A. creditors.
+B. managers.
+C. shareholders.
+50/ Q. Debt as a proportion of total capital is most likely greatest in which of the following life-cycle
+stages of a company?
+A. Start-up
+B. Growth
+C. Mature
+51/ Q. Real exchange rates:
+A. reflect changes in relative purchasing power.
+B. are quoted in global foreign exchange markets.
+C. have a strong track record as a predictor of future nominal exchange rates
+52/ Q. Under a franchise model, the franchisee:
+A. earns a royalty on sales.
+B. is responsible for product development and advertising.
+C. operates under a specific brand with proprietary products and processes
+53/ Q. Accounting goodwill is created when an acquisition's purchase price:
+A. results in a "bargain purchase."
+B. exceeds the value of acquired net identifiable assets.
+C. is attributed solely to separately identifiable assets and liabilities.
+CFA Program Level I for February 2024
+14
+54/ An analyst gathers the following closing prices of a stock:
+Date Closing Price ($)
+1 January 30
+15 January 38
+Q. The continuously compounded return for the period 1 January to 15 January is closest to:
+A. 7.0%.
+B. 23.6%.
+C. 26.7%.
+55/ Q. A positive movement in a lagging indicator would least likely be used to:
+A. identify a past condition of the economy.
+B. identify an expected future economic upturn.
+C. confirm that an expansion is currently underway.
+56/ Q. A fund initially has $50 million under management and earns 17% in Year 1. The fund receives
+additional investments of $125 million at the beginning of Year 2 and earns 12% in Year 2. The
+annualized money-weighted rate of return over the 2-year period is closest to:
+A. 13.2%.
+B. 14.5%.
+C. 15.5%.
+57/ Q. A central bank is least likely to:
+A. implement fiscal policy.
+B. oversee the payments system.
+C. manage foreign currency reserves.
+CFA Program Level I for February 2024
+15
+58/ An analyst gathers the following data on the Sharpe ratios of seven portfolios:
+Portfolio Sharpe Ratio
+ 1 0.2
+ 2 0.6
+ 3 0.7
+ 4 0.9
+ 5 1.0
+ 6 1.4
+ 7 1.6
+Q. The interquartile range of the Sharpe ratios is closest to:
+A. 0.6.
+B. 0.8.
+C. 1.4.
+59/ An analyst gathers the following information about a company:
+Before-tax cost of debt 5%
+Marginal tax rate 30%
+Cost of equity 8%
+Target debt-to-equity ratio 50%
+Q. The company's WACC is equal to:
+A. 5.75%.
+B. 6.50%.
+C. 7.00%.
+60/ Q. Based on good corporate governance practices, it is most appropriate for a company's
+compensation committee to:
+A. include some company executives.
+B. develop director remuneration policies.
+C. recommend remuneration for the external auditors.
+CFA Program Level I for February 2024
+16
+61/ Q. If differences between accounting profit and taxable income are recoverable, deferred tax
+assets are created when:
+A. accounting profit is less than taxable income.
+B. accounting profit is greater than taxable income.
+C. income taxes payable is less than income tax expense.
+62/ An analyst gathers the following exchange rate information:
+Spot rate 4.6895
+1-year forward points -12.7
+Q. The 1-year forward rate is closest to:
+A. 4.67680.
+B. 4.68823.
+C. 4.69077.
+63/ Q. An investor plans to contribute $10,000 each year into an account that earns an annual interest
+rate of 5%. If the first contribution is made one year from today, the value of the account immediately
+after the 10th contribution is closest to:
+A. $125,779.
+B. $132,068.
+C. $142,068.
+64/ Q. According to Modigliani and Miller's Proposition II without taxes, a higher proportion of debt in
+the capital structure of a company results in:
+A. the same WACC.
+B. a lower cost of equity.
+C. a greater company value.
+CFA Program Level I for February 2024
+17
+65/ Q. In a small country, an export subsidy for a good most likely results in a decrease in the good's
+domestic:
+A. price.
+B. production.
+C. consumption.
+66/ Q. In the statement of cash flows, interest paid by a company is most likely included in:
+A. either the operating or financing section under IFRS.
+B. either the operating or financing section under US GAAP.
+C. only the financing section under both IFRS and US GAAP.
+67/ An analyst is comparing the solvency of a company over the past two years using the information
+below:
+ Year 2 * Millions
+ Total debt 2,300
+ Total shareholders' equity 17,000
+ Total assets 20,000
+Net income 375
+Interest payments/interest expense 200
+Taxes paid 125
+ Ratios in Year 1
+ Debt to capital 12.7%
+ Interest coverage 2.9
+Q. The best conclusion the analyst can make about Year 2 is that compared with Year 1, the company's
+solvency has:
+A. remained the same.
+B. deteriorated because both ratios have weakened.
+C. improved because both ratios have strengthened.
+CFA Program Level I for February 2024
+18
+68/ Q. Which action is most likely considered a secondary source of liquidity?
+A. Increasing the availability of bank lines of credit
+B. Increasing the efficiency of cash flow management
+C. Renegotiating current debt contracts to lower interest payments
+69/The returns of a fund are as follows:
+Year Return (%)
+1 -20.60
+2 15.00
+3 0.50
+4 9.80
+5 4.60
+Q. The mean absolute deviation (MAD) of returns for the fund is closest to:
+A. 9.53%.
+B. 11.91%.
+C. 13.69%.
+70/ Q. The time-weighted rate of return:
+A. is affected by the amount and timing of cash flows to and from a portfolio.
+B. calculates multi-period cash flows mirroring a portfolio's compound growth rate.
+C. results in a lower return when compared with the money-weighted rate of return.
+71/ An analyst gathers the following information about a company:
+Year 2 Year 1
+Revenue € 725,000 € 720,000
+EBIT € 93,500 € 91,500
+Net income € 57,500 € 58,000
+Weighted average common shares outstanding during the year 650,000 635,000
+CFA Program Level I for February 2024
+19
+Q. Which of the following increased from Year 1 to Year 2?
+A. Basic EPS
+B. EBIT margin
+C. Net profit margin
+72/ Q. All else being equal, in an environment of rising inventory unit costs and constant inventory
+quantities, the LIFO inventory valuation method most likely results in a higher:
+A. ending inventory than under the FIFO method.
+B. gross profit margin than under the FIFO method.
+C. inventory turnover ratio than under the FIFO method.
+73/ Q. For a company reporting under IFRS, which of the following events most likely represents low
+financial reporting quality? The company:
+A. reported an increase in EPS as a result of the sale of a subsidiary.
+B. included gains from foreign exchange rate changes in its cost of goods sold.
+C. entered a long-term lease for a customized piece of equipment and classified it as a finance lease.
+74/ An analyst gathers the following information (in $ millions) about a company reporting under US
+GAAP:
+Cash flow from operations 500
+Capital expenditures 40
+Interest expensed and paid 20
+Net borrowing 10
+Q. If the tax rate is 25%, free cash flow to the firm (in $ millions) is:
+A. 460.
+B. 470.
+C. 475.
+CFA Program Level I for February 2024
+20
+75/ Q. For a hypothesis test concerning the correlation between two normally distributed variables
+with sample size n each, the number of degrees of freedom is:
+A. n-2.
+B. n-1.
+C. 2n-2.
+76/ Q. A portfolio has two stocks with equal weighting. The variance of returns for each stock is 100
+percent squared, and the covariance is 50 percent squared. The portfolio standard deviation of returns
+is closest to:
+A. 7.9%.
+B. 8.7%.
+C. 75.0%.
+77/ Q. A researcher wants to measure the level of consumer confidence in a country by interviewing a
+simple random sample of ten consumers from three randomly selected cities. This method is an
+example of:
+A. cluster sampling.
+B. systematic sampling.
+C. stratified random sampling.
+78/ The following data apply to a firm operating in perfect competition.
+Quantity Total Revenue Total Cost
+ 21 $210 $138
+ 22 $220 $145
+ 23 $230 $154
+ 24 $240 $165
+Q. The firm's profit maximizing output (in units) is most likely:
+A. 21.
+B. 23.
+C. 24.
+CFA Program Level I for February 2024
+21
+79/ Q. The money supply most likely increases when a central bank:
+A. purchases bonds.
+B. increases the policy rate.
+C. raises the reserve requirement.
+80/ Q. Under IFRS, which component of the change in the net pension asset or liability each period is
+recognized in other comprehensive income?
+A. Employees' service costs
+B. Actuarial gains and losses and other remeasurements
+C. The net interest expense or income accrued on the beginning net pension plan asset or liability
+81/ The following information is available for a company:
+Year 2
+(in € Millions)
+EBIT (earnings before interest and taxes) 1,015.0
+Interest expense 73.4
+Tax expense 201.4
+Total assets 5,305.0
+Average total assets 5,421.0
+Total debt 1,048.0
+Year 1
+Interest coverage 15.3x
+Debt to total assets 18.2%
+Operating return on assets (ROA) 17.3%
+Q. Compared with Year 1, which of the following ratios most likely indicates an improvement in the
+creditworthiness of the company? The change in the company's:
+A. operating ROA.
+B. interest coverage.
+C. debt-to-total assets.
+CFA Program Level I for February 2024
+22
+82/ Q. When considering ESG factors, energy efficiency is best described as a(n):
+A. environmental factor.
+B. social factor.
+C. governance factor.
+83/ An analyst gathers the following information about a company:
+Target D/E 0.80
+Current D/E 0.65
+Yield to maturity 4%
+Cost of equity 9%
+Tax rate 30%
+Q. The WACC to be used in financial analysis is closest to:
+A. 6.24%.
+B. 6.56%.
+C. 6.78%.
+84/ Q. In the event that the value of inventory declines below the carrying amount on the balance
+sheet, the inventory carrying amount must be written down and the reduction in value recognized as
+a(n):
+A. expense on the income statement.
+B. decrease in the revaluation surplus account.
+C. decrease in the inventory valuation allowance account.
+85/ Q. The international organization most likely to provide funds to create basic economic
+infrastructure in developing countries is the:
+A. World Bank.
+B. World Trade Organization.
+C. International Monetary Fund.
+CFA Program Level I for February 2024
+23
+86/ Q. If a paired comparison test of mean differences supports rejecting the null hypothesis, then the:
+A. difference in means is not statistically significant.
+B. independence of the samples is statistically significant.
+C. standard error of the mean differences is low relative to the sample mean difference.
+87/ Q. The possibility of new entrants into an industry is considered in the calculation of:
+A. the concentration ratio.
+B. the Herfindahl-Hirschman index.
+C. neither the concentration ratio nor the Herfindahl-Hirschman index.
+88/ Q. Under the indirect method, which of the following should be subtracted from net income to
+arrive at cash flow from operating activities?
+A. Purchase of equipment
+B. Decrease in accounts payable
+C. Amortization expense of intangible assets
+89/ An analyst gathers the following probabilities concerning Event X and some new information:
+Prior probability of X 0.70
+Probability of the new information given X 0.50
+Unconditional probability of the new information 0.60
+Q. Using Bayes' formula, the updated probability of X given the new information is closest to:
+A. 0.43.
+B. 0.58.
+C. 0.84.
+90/ Q. Conflicts of interest between shareholders and management most likely occur when:
+A. executive remuneration plans include deferred shares.
+B. shareholders do not influence the design of executive compensation packages.
+C. risky projects that match shareholders' risk tolerance are pursued by the company.

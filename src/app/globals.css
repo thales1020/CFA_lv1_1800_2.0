@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply no-select;
+  }
+
+  html,
+  body {
+    @apply h-full overflow-hidden;
+  }
+
+  body {
+    @apply bg-prometric-bg text-prometric-text font-sans antialiased;
+    font-size: 14px;
+  }
+
+  /* Reset button styles */
+  button {
+    @apply outline-none;
+  }
+
+  button:focus-visible {
+    @apply ring-2 ring-prometric-navy ring-offset-2;
+  }
+
+  /* Context menu prevention */
+  img {
+    pointer-events: none;
+  }
+}
+
+@layer utilities {
+  /* Question content selectable */
+  .question-content {
+    @apply allow-select;
+  }
+
+  /* Strikethrough effect for options */
+  .option-strikethrough {
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+    text-decoration-color: #666666;
+  }
+
+  /* Highlight effect */
+  .text-highlighted {
+    @apply bg-prometric-yellow;
+  }
+
+  /* Custom scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 12px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-prometric-bg;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-prometric-border rounded;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    @apply bg-prometric-border-dark;
+  }
+}

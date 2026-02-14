@@ -1,0 +1,42 @@
+-- Kích hoạt extension tạo UUID
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+
+-- Bảng Exams: Lưu thông tin đề thi
+CREATE TABLE exams (
+    id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+    title TEXT NOT NULL,
+    description TEXT,
+    duration_minutes INTEGER NOT NULL DEFAULT 135,
+    total_questions INTEGER NOT NULL DEFAULT 90,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
+);
+
+-- Bảng Questions: Lưu dữ liệu câu hỏi (CFA chỉ có 3 options A, B, C)
+CREATE TABLE questions (
+    id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+    exam_id UUID REFERENCES exams(id) ON DELETE CASCADE,
+    question_text TEXT NOT NULL,
+    option_a TEXT NOT NULL,
+    option_b TEXT NOT NULL,
+    option_c TEXT NOT NULL,
+    correct_option CHAR(1) NOT NULL CHECK (correct_option IN ('A', 'B', 'C')),
+    order_num INTEGER NOT NULL,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
+    explanation TEXT
+);
+
+-- Bảng Attempts: Lưu lịch sử và kết quả làm bài của User
+CREATE TABLE attempts (
+    id UUID DEFAULT uuid_generate_v4() PRIMARY KEY,
+    user_id UUID REFERENCES auth.users(id) ON DELETE CASCADE,
+    exam_id UUID REFERENCES exams(id) ON DELETE CASCADE,
+    score INTEGER NOT NULL DEFAULT 0,
+    time_spent_seconds INTEGER NOT NULL DEFAULT 0,
+    answers_data JSONB NOT NULL DEFAULT '{}'::jsonb, -- Lưu dạng { "question_id": "A" }
+    status TEXT NOT NULL DEFAULT 'completed' CHECK (status IN ('in_progress', 'completed')),
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
+);
+
+-- Tạo Indexes tối ưu truy vấn
+CREATE INDEX idx_questions_exam_id ON questions(exam_id);
+CREATE INDEX idx_attempts_user_id ON attempts(user_id);
